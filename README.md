@@ -1,6 +1,8 @@
-# testing_app
+# Ganna Music App Clone
 
 A new Flutter project.
+
+
 
 ## Getting Started
 
